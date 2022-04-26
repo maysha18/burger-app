@@ -3,10 +3,13 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.15.0</title>
-            <description>Minor updates and improvements.</description>
+            <title>Version 1.0.6</title>
+            <description>- Resolved Multiple devices login with same expert
+- Now kundali is available with Hindi and English
+- Resolved major issues
+- Performance improvements</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.anytimeastro.experts" sparkle:version="1.0.6" sparkle:os="android" />
         </item>
         <item>
             <title>Version 2.1 (2 bugs fixed; 3 new features)</title>
