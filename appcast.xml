@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>For Astrologers- Anytime Astro</title>
         <item>
             <title>Version 1.0.8</title>
             <description>- Resolved Multiple devices login with same expert
 - Now kundali is available with Hindi and English
 - Resolved major issues
 - Performance improvements</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 27 Apr 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.anytimeastro.experts" sparkle:version="1.0.8" sparkle:os="android" />
         </item>
         <item>
